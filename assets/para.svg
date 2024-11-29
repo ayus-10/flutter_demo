@@ -23,9 +23,9 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="1.0736111"
-     inkscape:cx="203.51876"
-     inkscape:cy="453.1436"
+     inkscape:zoom="0.53680555"
+     inkscape:cx="392.13454"
+     inkscape:cy="485.27814"
      inkscape:window-width="1920"
      inkscape:window-height="991"
      inkscape:window-x="-9"
@@ -48,18 +48,18 @@
        id="path2" />
     <text
        xml:space="preserve"
-       style="font-size:36px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:48px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
        x="398.8313"
-       y="244.89113"
+       y="240.89113"
        id="text2"><tspan
          sodipodi:role="line"
          id="tspan2"
          x="398.8313"
-         y="244.89113"
-         style="stroke-width:3">a</tspan></text>
+         y="240.89113"
+         style="font-size:48px;stroke-width:3">a</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:48px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
        x="626.45093"
        y="397.53018"
        id="text3"><tspan
@@ -67,10 +67,10 @@
          id="tspan3"
          x="626.45093"
          y="397.53018"
-         style="stroke-width:3">b</tspan></text>
+         style="font-size:48px;stroke-width:3">b</tspan></text>
     <text
        xml:space="preserve"
-       style="font-size:36px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
+       style="font-size:48px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3;stroke-dasharray:none;stroke-opacity:1"
        x="211.96194"
        y="391.47586"
        id="text4"><tspan
@@ -78,6 +78,6 @@
          id="tspan4"
          x="211.96194"
          y="391.47586"
-         style="stroke-width:3">h</tspan></text>
+         style="font-size:48px;stroke-width:3">h</tspan></text>
   </g>
 </svg>
