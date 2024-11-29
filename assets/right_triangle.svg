@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="720"
+   height="720"
+   viewBox="0 0 720 720"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (86a8ad7, 2024-10-11)"
+   sodipodi:docname="drawing.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="1.0736111"
+     inkscape:cx="430.78913"
+     inkscape:cy="445.69211"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-opacity:1;stroke-width:4;stroke-dasharray:none"
+       d="M 652.03844,71.131466 V 650.72119 H 79.034962 Z"
+       id="path1"
+       inkscape:label="path1" />
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect1"
+       width="16.300961"
+       height="15.313024"
+       x="635.40814"
+       y="634.91418" />
+    <text
+       xml:space="preserve"
+       style="font-size:24px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="-79.693863"
+       y="500.09705"
+       id="text1"
+       transform="rotate(-43.860243)"
+       inkscape:transform-center-x="20.891501"
+       inkscape:transform-center-y="-27.846532"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         x="-79.693863"
+         y="500.09705"
+         style="stroke-width:2">hypotenuse (h)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="353.81512"
+       y="675.43573"
+       id="text2"><tspan
+         sodipodi:role="line"
+         id="tspan2"
+         x="353.81512"
+         y="675.43573"
+         style="stroke-width:2">base(b)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:24px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
+       x="273.08865"
+       y="-667.69641"
+       id="text3"
+       transform="rotate(89.999542)"><tspan
+         sodipodi:role="line"
+         id="tspan3"
+         x="273.08865"
+         y="-667.69641"
+         style="stroke-width:2">perpendicular (p)</tspan></text>
+  </g>
+</svg>
